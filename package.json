@@ -1,0 +1,23 @@
+{
+  "name": "cypress-learnings",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/KasunDRajapaksha/Cypress-learnings#readme",
+  "bugs": {
+    "url": "https://github.com/KasunDRajapaksha/Cypress-learnings/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KasunDRajapaksha/Cypress-learnings.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cypress": "^15.12.0"
+  }
+}
